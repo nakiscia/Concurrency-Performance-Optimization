@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Thread-Interruption/01-Thread-Interruption.iml" filepath="$PROJECT_DIR$/01-Thread-Interruption/01-Thread-Interruption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Joining-Threads/02-Joining-Threads.iml" filepath="$PROJECT_DIR$/02-Joining-Threads/02-Joining-Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Thread-Join.iml" filepath="$PROJECT_DIR$/02-Thread-Join.iml" />
+    </modules>
+  </component>
+</project>
