@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/01-Thread-Interruption/01-Thread-Interruption.iml" filepath="$PROJECT_DIR$/01-Thread-Interruption/01-Thread-Interruption.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Joining-Threads/02-Joining-Threads.iml" filepath="$PROJECT_DIR$/02-Joining-Threads/02-Joining-Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Thread-Join.iml" filepath="$PROJECT_DIR$/02-Thread-Join.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-ImageProcessing/03-ImageProcessing.iml" filepath="$PROJECT_DIR$/03-ImageProcessing/03-ImageProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-ThroughputHttpServer/04-ThroughputHttpServer.iml" filepath="$PROJECT_DIR$/04-ThroughputHttpServer/04-ThroughputHttpServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-ResourceSharing/05-ResourceSharing.iml" filepath="$PROJECT_DIR$/05-ResourceSharing/05-ResourceSharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-AtomicOperations/06-AtomicOperations.iml" filepath="$PROJECT_DIR$/06-AtomicOperations/06-AtomicOperations.iml" />
     </modules>
   </component>
 </project>
